@@ -1,0 +1,6 @@
+framework module Pods_Moya_demoTests {
+  umbrella header "Pods-Moya-demoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
